@@ -1,7 +1,7 @@
 # 6companies30days
-- [] Goldmann Sachs
-- [] Amazon
-- [] Microsoft
-- [] Adobe
-- [] Intuit
-- [] Walmart
+- [x] Goldmann Sachs
+- [x] Amazon
+- [x] Microsoft
+- [x] Adobe
+- [x] Intuit
+- [x] Walmart
